@@ -1,0 +1,3 @@
+build/
+public/gambit.js
+public/gambit.wasm
